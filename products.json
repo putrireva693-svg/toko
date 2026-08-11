@@ -5,15 +5,15 @@
     "harga": 18999000,
     "deskripsi": "Smartphone premium dengan kamera canggih, layar Super Retina XDR, dan performa tinggi.",
     "gambar": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?q=80&w=600",
-    "ytVideo": "https://www.youtube.com/embed/eD7zWvXQj9c"
+    "ytVideo": "https://www.youtube.com/embed/j1-i9OC7Yfo"
   },
   {
     "id": 2,
     "nama": "Samsung Galaxy S25 Ultra",
     "harga": 19999000,
-    "deskripsi": "Smartphone flagship dengan kamera berkualitas tinggi, S Pen, dan performa luar biasa.",
+    "deskripsi": "Smartphone flagship dengan kamera berkualitas tinggi, S Pen, Galaxy AI, dan performa luar biasa.",
     "gambar": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?q=80&w=600",
-    "ytVideo": "https://www.youtube.com/embed/x1Q8Qh3mVJ8"
+    "ytVideo": "https://www.youtube.com/embed/VIDEO_S25_ULTRA"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "harga": 15999000,
     "deskripsi": "Smartphone modern dengan teknologi AI, kamera profesional, dan layar OLED yang tajam.",
     "gambar": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=600",
-    "ytVideo": "https://www.youtube.com/embed/5xL4jQW8w2A"
+    "ytVideo": "https://www.youtube.com/embed/VIDEO_PIXEL_9_PRO"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "harga": 7999000,
     "deskripsi": "Smartwatch elegan untuk aktivitas sehari-hari dengan berbagai fitur kesehatan dan olahraga.",
     "gambar": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=600",
-    "ytVideo": "https://www.youtube.com/embed/7Jk2M8vQpLs"
+    "ytVideo": "https://www.youtube.com/embed/VIDEO_APPLE_WATCH_10"
   },
   {
     "id": 5,
@@ -37,6 +37,6 @@
     "harga": 5999000,
     "deskripsi": "Headphone wireless premium dengan fitur noise cancelling dan kualitas suara yang jernih.",
     "gambar": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?q=80&w=600",
-    "ytVideo": "https://www.youtube.com/embed/9z7WmQ4KxYc"
+    "ytVideo": "https://www.youtube.com/embed/v6EjmbMgv80"
   }
 ]
