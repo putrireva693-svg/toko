@@ -1,42 +1,50 @@
 [
   {
     "id": 1,
-    "nama": "iPhone 16 Pro",
-    "harga": 18999000,
-    "deskripsi": "Smartphone premium dengan kamera canggih, layar Super Retina XDR, dan performa tinggi.",
-    "gambar": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?q=80&w=600",
-    "ytVideo": "https://www.youtube.com/embed/j1-i9OC7Yfo"
+    "nama": "Google Pixel 9 Pro",
+    "harga": 14999000,
+    "deskripsi": "Smartphone flagship dengan kamera canggih dan performa tinggi.",
+    "gambar": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=500",
+    "ytVideo": "https://www.youtube.com/embed/6xWf3n1N7hE"
   },
   {
     "id": 2,
-    "nama": "Samsung Galaxy S25 Ultra",
-    "harga": 19999000,
-    "deskripsi": "Smartphone flagship dengan kamera berkualitas tinggi, S Pen, Galaxy AI, dan performa luar biasa.",
-    "gambar": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?q=80&w=600",
-    "ytVideo": "https://www.youtube.com/embed/VIDEO_S25_ULTRA"
+    "nama": "MacBook Pro M4",
+    "harga": 24999000,
+    "deskripsi": "Laptop profesional dengan chip Apple Silicon untuk pekerjaan berat.",
+    "gambar": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=500",
+    "ytVideo": "https://www.youtube.com/embed/3YMy6QpW8gM"
   },
   {
     "id": 3,
-    "nama": "Google Pixel 9 Pro",
-    "harga": 15999000,
-    "deskripsi": "Smartphone modern dengan teknologi AI, kamera profesional, dan layar OLED yang tajam.",
-    "gambar": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=600",
-    "ytVideo": "https://www.youtube.com/embed/VIDEO_PIXEL_9_PRO"
+    "nama": "PlayStation 5 Slim",
+    "harga": 8999000,
+    "deskripsi": "Konsol gaming generasi terbaru dengan performa grafis tinggi.",
+    "gambar": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?q=80&w=500",
+    "ytVideo": "https://www.youtube.com/embed/7B7g6k2QX1A"
   },
   {
     "id": 4,
-    "nama": "Apple Watch Series 10",
-    "harga": 7999000,
-    "deskripsi": "Smartwatch elegan untuk aktivitas sehari-hari dengan berbagai fitur kesehatan dan olahraga.",
-    "gambar": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=600",
-    "ytVideo": "https://www.youtube.com/embed/VIDEO_APPLE_WATCH_10"
+    "nama": "iPad Air M3",
+    "harga": 10999000,
+    "deskripsi": "Tablet tipis dan cepat untuk belajar, bekerja, dan hiburan.",
+    "gambar": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?q=80&w=500",
+    "ytVideo": "https://www.youtube.com/embed/6Eo9Y5W4x9Y"
   },
   {
     "id": 5,
+    "nama": "Galaxy Watch Ultra",
+    "harga": 8999000,
+    "deskripsi": "Smartwatch premium dengan fitur kesehatan dan olahraga.",
+    "gambar": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=500",
+    "ytVideo": "https://www.youtube.com/embed/5mZ6q1Q7jK0"
+  },
+  {
+    "id": 6,
     "nama": "Sony WH-1000XM5",
-    "harga": 5999000,
-    "deskripsi": "Headphone wireless premium dengan fitur noise cancelling dan kualitas suara yang jernih.",
-    "gambar": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?q=80&w=600",
-    "ytVideo": "https://www.youtube.com/embed/v6EjmbMgv80"
+    "harga": 5499000,
+    "deskripsi": "Headphone wireless dengan teknologi noise cancelling.",
+    "gambar": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=500",
+    "ytVideo": "https://www.youtube.com/embed/1Tq0V9H6R4E"
   }
 ]
