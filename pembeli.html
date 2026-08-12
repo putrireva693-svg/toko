@@ -646,6 +646,29 @@ CART
 CHECKOUT
 ========================= */
 
+
+const newOrder = {
+    id: Math.floor(100000 + Math.random() * 900000),
+
+    buyerName: buyerName,
+
+    receiverName: document.getElementById('receiverName').value,
+
+    location: document.getElementById('location').value,
+
+    paymentMethod: document.getElementById('paymentMethod').value,
+
+    date: new Date().toLocaleDateString('id-ID'),
+
+    items: [...cart],
+
+    total: totalAmount,
+
+    status: 'Sedang Diproses'
+};
+
+
+
 .checkout-modal {
 
     max-width: 650px;
